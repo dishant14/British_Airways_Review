@@ -32,4 +32,4 @@ Include screenshots of your dashboard here, showcasing its layout and functional
 
 ## Credits
 - Data Source: Github File
-- Tableau Dashboard Design: [Dishant Sakariya/https://theaffordble.wixsite.com/dishantsakariya]
+- Tableau Dashboard Design: [Dishant Sakariya / https://theaffordble.wixsite.com/dishantsakariya]
